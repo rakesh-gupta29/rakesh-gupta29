@@ -6,8 +6,8 @@ Full Stack Web Developer
 
 I am a full stack web developer working on various technologies
 
-*   🌍  I'm based in Bhilai, Chhattisgarh
+*   🌍  I'm based out of Bhilai, Chhattisgarh
 *   🖥️  See my portfolio at [Rakesh Gupta's Portfolio](http://rakesh-gupta29.github.io)
 *   ✉️  You can contact me at [rakesh.rkgupta29@gmail.com](mailto:rakesh.rkgupta29@gmail.com)
 *   🧠  I'm learning Golang and DSA
-*   🤝  I'm open to collaborating on Open Source Projects, Freelance Oppurtunities
+*   🤝  I'm open to collaborating on Open Source Projects and Freelance Oppurtunities
