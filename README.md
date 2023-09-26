@@ -1,13 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rakesh Gupta
-====================================================================================================================================
-
-Full Stack Web Developer
+<h1 class="heading-link">Hi, I am Rakesh Gupta</h1>
 ------------------------
 
-I am a full stack web developer working on various technologies
+*   🌍  I'm based in Chhattisgarh, India
+*   🖥️  See my projects [here](http://rakesh-gupta29.github.io)
+*   ✉️  React out to me at [rakesh.rkgupta29@gmail.com](mailto:rakesh.rkgupta29@gmail.com)
+*   🧠  Currently focused on learning Golang and Data Structures & Algorithms (DSA)
+  Feel free to connect with me for inquiries, collaborations, or just to discuss exciting web development prospects.
 
-*   🌍  I'm based out of Bhilai, Chhattisgarh
-*   🖥️  See my portfolio at [Rakesh Gupta's Portfolio](http://rakesh-gupta29.github.io)
-*   ✉️  You can contact me at [rakesh.rkgupta29@gmail.com](mailto:rakesh.rkgupta29@gmail.com)
-*   🧠  I'm learning Golang and DSA
-*   🤝  I'm open to collaborating on Open Source Projects and Freelance Oppurtunities
