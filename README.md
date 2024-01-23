@@ -10,6 +10,5 @@ Frontend Developer
 I have worked primarily as a Frontend developer creating interactive UI components. <br />
 Currently, learning Golang to bring dynamism to my work.
 
-**Open for freelance projects and collaborations**
 
 
