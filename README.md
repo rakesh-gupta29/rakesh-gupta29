@@ -1,7 +1,7 @@
 # Hi, I am Rakesh Gupta
 Frontend Developer
 
-*   🌍  I'm based in Chhattisgarh, India.
+*   🌍  I'm based in Pune, India.
 *   🖥️  Visit my [portfolio](http://rakesh-gupta29.github.io).
 *   ✉️  React out to me at [rakesh.rkgupta29@gmail.com](mailto:rakesh.rkgupta29@gmail.com).
 *   🧠  Currently focused on learning Golang and Data Structures & Algorithms (DSA).
